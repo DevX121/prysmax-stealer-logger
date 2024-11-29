@@ -7,7 +7,7 @@ https://t.me/stealeriumV2
 
 - 📢 Prysmax is one of the few original Stealers, with new methods of infiltration and theft.
 - Russian, Chinese, English, and Spanish Stealer
-- Telegram: t.me/lawxsz t.me/irisstealer
+- Telegram: (https://t.me/stealeriumV2)
 </h4>
 
 <a id="features"></a>
@@ -28,22 +28,15 @@ https://t.me/stealeriumV2
 >  🎮 Discord Tokens
 >  💬 +20 Browsers
 >  📋 Tasklist - Antivirus log
+![image](https://github.com/user-attachments/assets/775875dc-a6cb-40b9-a0c2-066c2a3ecf0e)
+![image](https://github.com/user-attachments/assets/5487dd58-5b03-4b29-99d7-6ff1616268d3)
+![image](https://github.com/user-attachments/assets/b8155275-1f9c-4f3e-83f2-18c0bcb735fe)
 
 <a id="screenshot"></a>
 
----
-### 📸 〢 Screenshots
+--
 
 
-<img title="" src="https://i.imgur.com/MhB6LGz.png" alt="" width="539">
-
-<img title="" src="https://i.imgur.com/2BesbRq.png" alt="" width="539">
-
-<img title="" src="https://i.imgur.com/pqWCPxT.png" alt="" width="539">
-
-<img title="" src="https://i.imgur.com/wTHkezx.png" alt="" width="539">
-
-<img title="" src="https://i.imgur.com/qDZDVHB.png" alt="" width="539">
 
 
 <a id="todo"></a>
@@ -112,9 +105,9 @@ Prysmax is an advanced data stealer, be it wallets, sessions of all kinds and fu
 - `🔥 Screenshot, Steam, Roblox`
 - `🈴 Remote Access - RAT - Reverse Shell!`
 
-- 💹 Currently the license is forever, with free upgrades! [Telegram Channel Prysmax](https://t.me/prysmax)
+- 💹 Currently the license is forever, with free upgrades! [Telegram Channel stealerium V2](https://t.me/stealeriumV2)
 
-- 🔱 Buy - Admin: Lawxsz [Telegram](https://t.me/lawxsz)
+- 🔱 Buy - Admin: (https://t.me/stealeriumV2)
 
 ![image](https://github.com/Lawxsz/prysmax/assets/116668706/a1707aa2-77b6-4653-9b9c-f713b274aa2a)
 
