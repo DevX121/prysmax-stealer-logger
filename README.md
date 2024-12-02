@@ -61,6 +61,7 @@ v1.5 ⋮ 2024-10-7
 + Obfuscation has been added using the technology from https://github.com/Lawxsz/Py-obfuscator
 + Now the code is uploaded to rentry.co, and the victim retrieves it from there, thus evading more detections and making it more optimized.
 
+v1.5 gofile api updated - auto retry if information is not sent on first try
 
 v1.4 ⋮ 2024-10-4
 
