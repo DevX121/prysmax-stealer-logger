@@ -81,7 +81,7 @@ v1.3 ⋮ 2024-06-06
 
 v1.2 ⋮ 2024-05-8
 + Telegram changed to Discord
-+ Fixed some errors
++ Fixed some errors.
 
 v1.1 ⋮ 2023-11-20
 
